@@ -1,0 +1,28 @@
+﻿body {
+}
+#Container {
+    margin:auto;
+}
+
+div.card {
+    width: 20px;
+    height: 20px;
+    border: solid;
+    border-width: 2px;
+    background-color: hotpink;
+    float:left;
+}
+
+div.closed {
+    background-color: deeppink;
+    border-color: hotpink;
+}
+div.opened {
+    background-color: white;
+    border-color: deepskyblue;
+}
+
+div.row {
+    background-color: pink;
+    clear:both;
+}
